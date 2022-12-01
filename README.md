@@ -7,4 +7,4 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 
 ### Current Ruby rank
 
-![Ruby Rank](https://shields.io/badge/-7%20kyu-white?logo=ruby&style=for-the-badge&logoColor=CC342D)
+![Ruby Rank](https://shields.io/badge/-6%20kyu-white?logo=ruby&style=for-the-badge&logoColor=CC342D)
